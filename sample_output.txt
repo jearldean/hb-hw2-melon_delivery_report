@@ -1,0 +1,114 @@
+🐳 hackbright@d73cab7805cd:~/src/melon-delivery-report $ /usr/bin/python3 produce_summary.py 
+Day 1
+Delivered  18   Ali Baba Watermelons                          for a total of    $25.00
+Delivered  10   Arkansas Black Watermelons                    for a total of    $40.00
+Delivered   8   Black Diamond Yellow-Belly Strain Watermelons for a total of    $16.00
+Delivered   5   Cantaloupes                                   for a total of     $4.95
+Delivered   3   Carolina Cross 180 Watermelons                for a total of    $12.75
+Delivered   5   Chris Cross Watermelons                       for a total of    $12.50
+Delivered   1   Congo Watermelons                             for a total of     $2.00
+Delivered   9   Cream of Saskatchewan Watermelons             for a total of    $22.50
+Delivered  16   Crenshaws                                     for a total of    $32.00
+Delivered  64   Daisy or Yellow Shipper Watermelons           for a total of   $160.00
+Delivered   2   Densukes                                      for a total of   $500.00
+Delivered   7   Dixie Queen Watermelons                       for a total of    $14.00
+Delivered   1   Galias                                        for a total of     $3.75
+Delivered   6   Golden Midget Watermelons                     for a total of    $15.00
+Delivered   9   Hamis                                         for a total of    $24.75
+Delivered  58   Honeydews                                     for a total of    $57.42
+Delivered   6   Kleckley's Sweet Watermelons                  for a total of    $15.00
+Delivered  17   Long Milky Way - Moon and Stars Watermelons   for a total of    $46.75
+Delivered   3   Melitopolski Watermelons                      for a total of     $9.00
+Delivered   9   Mississippi Cobb Gem Watermelons              for a total of    $27.00
+Delivered   1   Moon and Stars Watermelons                    for a total of     $2.50
+Delivered  54   Moon and Stars Yellow Flesh Watermelons       for a total of   $135.00
+Delivered   2   Mountain Hoosier Watermelons                  for a total of     $4.50
+Delivered  42   Navajo Winter Watermelons                     for a total of   $126.00
+Delivered  10   Orange Flesh Tendersweet Watermelons          for a total of    $22.50
+Delivered   9   Orangeglo Watermelons                         for a total of    $24.75
+Delivered  11   Peacock Striped Watermelons                   for a total of    $22.00
+Delivered   9   Persian Melons                                for a total of    $27.00
+Delivered  95   Sugar Baby Watermelons                        for a total of   $237.50
+Delivered   8   Tendergold Watermelons                        for a total of    $20.00
+Delivered   6   Texas Golden Watermelons                      for a total of    $16.50
+Delivered   5   Tom Watson Watermelons                        for a total of    $11.25
+Delivered  86   White Sugar Lump Watermelons                  for a total of   $301.00
+                                                           Total for the day: $1990.87
+
+
+Day 2
+Delivered  85   Armenian Cucumbers                       for a total of   $382.50
+Delivered   2   Carolina Cross 180 Watermelons           for a total of     $8.50
+Delivered   9   Casabas                                  for a total of    $22.50
+Delivered   2   Chris Cross Watermelons                  for a total of     $5.00
+Delivered  77   Congo Watermelons                        for a total of   $154.00
+Delivered  12   Cranes                                   for a total of    $30.00
+Delivered  74   Crenshaws                                for a total of   $148.00
+Delivered  75   Densukes                                 for a total of $18750.00
+Delivered  13   Desert King Watermelons                  for a total of    $26.00
+Delivered  62   Fairfax Watermelons                      for a total of   $124.00
+Delivered  18   Georgia Rattlesnake Watermelons          for a total of    $45.00
+Delivered   2   Golden Midget Watermelons                for a total of     $5.00
+Delivered   9   Hopi Yellow Watermelons                  for a total of    $22.50
+Delivered  48   Irish Grey Watermelons                   for a total of   $120.00
+Delivered   7   Japanese Cream Fleshed Suika Watermelons for a total of    $21.00
+Delivered   7   Jubilee Bush Watermelons                 for a total of    $17.50
+Delivered  76   Jubilee Watermelons                      for a total of   $190.00
+Delivered   3   Kleckley's Sweet Watermelons             for a total of     $7.50
+Delivered   1   Malali Watermelons                       for a total of     $2.00
+Delivered   5   Melitopolski Watermelons                 for a total of    $15.00
+Delivered   7   Mississippi Cobb Gem Watermelons         for a total of    $21.00
+Delivered   1   Montenegro Man Watermelons               for a total of     $2.50
+Delivered  21   Moon and Stars Watermelons               for a total of    $52.50
+Delivered   3   Moon and Stars Yellow Flesh Watermelons  for a total of     $7.50
+Delivered   7   Mountain Hoosier Watermelons             for a total of    $15.75
+Delivered  45   Navajo Winter Watermelons                for a total of   $135.00
+Delivered  10   Orangeglo Watermelons                    for a total of    $27.50
+Delivered  10   Sugar Baby Watermelons                   for a total of    $25.00
+Delivered  22   Texas Golden Watermelons                 for a total of    $60.50
+Delivered  12   Tom Watson Watermelons                   for a total of    $27.00
+Delivered   9   White Sugar Lump Watermelons             for a total of    $31.50
+Delivered   2   White Wonder Watermelons                 for a total of     $5.00
+Delivered   5   Wilson's Sweet Watermelons               for a total of    $12.50
+Delivered   8   Winter Melons                            for a total of     $7.92
+                                                     Total for the day: $20527.17
+
+
+Day 3
+Delivered   2   Ali Baba Watermelons                          for a total of     $5.00
+Delivered   1   Arkansas Black Watermelons                    for a total of     $4.00
+Delivered   8   Armenian Cucumbers                            for a total of    $36.00
+Delivered   5   Black Diamond Yellow-Belly Strain Watermelons for a total of    $10.00
+Delivered   8   Blacktail Mountain Watermelons                for a total of    $22.00
+Delivered   8   Cantaloupes                                   for a total of     $7.92
+Delivered   8   Charleston Gray Watermelons                   for a total of    $16.00
+Delivered   7   Christmas Melons                              for a total of    $38.50
+Delivered  66   Cream of Saskatchewan Watermelons             for a total of   $165.00
+Delivered  30   Crimson Sweet Watermelons                     for a total of    $52.50
+Delivered   4   Densukes                                      for a total of  $1000.00
+Delivered  37   Galias                                        for a total of   $138.75
+Delivered  11   Georgia Rattlesnake Watermelons               for a total of    $27.50
+Delivered   5   Golden Midget Watermelons                     for a total of    $12.50
+Delivered  84   Hopi Yellow Watermelons                       for a total of   $210.00
+Delivered  95   Irish Grey Watermelons                        for a total of   $237.50
+Delivered  13   Japanese Cream Fleshed Suika Watermelons      for a total of    $39.00
+Delivered   8   Jubilee Bush Watermelons                      for a total of    $20.00
+Delivered   5   Jubilee Watermelons                           for a total of    $12.50
+Delivered  17   Ledmon Watermelons                            for a total of    $51.00
+Delivered  70   Melitopolski Watermelons                      for a total of   $210.00
+Delivered  18   Mississippi Cobb Gem Watermelons              for a total of    $54.00
+Delivered   9   Navajo Winter Watermelons                     for a total of    $27.00
+Delivered   1   Orange Flesh Tendersweet Watermelons          for a total of     $2.25
+Delivered   3   Peacock Striped Watermelons                   for a total of     $6.00
+Delivered   6   Royal Golden Watermelons                      for a total of    $13.50
+Delivered  18   Scaly Bark Watermelons                        for a total of    $72.00
+Delivered   6   Stone Mountain Watermelons                    for a total of    $18.00
+Delivered  26   Sugar Baby Watermelons                        for a total of    $65.00
+Delivered  89   Takii Gem Watermelons                         for a total of   $244.75
+Delivered   4   Tendergold Watermelons                        for a total of    $10.00
+Delivered   9   Thai Rom Dao Watermelons                      for a total of    $22.50
+Delivered   6   White Wonder Watermelons                      for a total of    $15.00
+Delivered   8   Wilson's Sweet Watermelons                    for a total of    $20.00
+Delivered  14   Winter Melons                                 for a total of    $13.86
+                                                           Total for the day: $2899.53
+
